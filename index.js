@@ -24,7 +24,7 @@ switch(true){
         break
 
     case saldoRankeadas >= 81 && saldoRankeadas <= 90:
-        nivelHeroi = "Diamente"
+        nivelHeroi = "Diamante"
         break
 
     case saldoRankeadas >= 91 && saldoRankeadas <= 100:
